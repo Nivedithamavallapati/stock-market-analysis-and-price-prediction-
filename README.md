@@ -73,7 +73,10 @@ Evaluated using:
 
 ## Insights
 
-1.Stock prices follow strong trends over time
-2.Moving averages help identify market direction
-3.Volume impacts price movement
-4.Random Forest gives decent prediction accuracy
+1.Stock prices follow strong trends over time.
+
+2.Moving averages help identify market direction.
+
+3.Volume impacts price movement.
+
+4.Random Forest gives decent prediction accuracy.
