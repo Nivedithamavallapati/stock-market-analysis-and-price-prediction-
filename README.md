@@ -72,6 +72,7 @@ Evaluated using:
 - Actual vs Predicted Graph
 
 ## Insights
+
 1.Stock prices follow strong trends over time
 2.Moving averages help identify market direction
 3.Volume impacts price movement
